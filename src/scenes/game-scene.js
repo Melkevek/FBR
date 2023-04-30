@@ -1,6 +1,6 @@
-import Bird from "../extras/bird";
-import PipeSystem from "../extras/pipes";
-import Score from "../extras/score";
+import Bird from "../nuevos sc/bird";
+import PipeSystem from "../nuevos sc/pipes";
+import Score from "../nuevos ec/score";
 import FlappyBirdScene from "./flappy-bird-scene";
 
 export default class GameScene extends FlappyBirdScene{
